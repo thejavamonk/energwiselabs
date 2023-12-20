@@ -1,2 +1,2 @@
 # energwiselabs
-website for EnerGWise labs LLP
+EnerGWise labs LLP
